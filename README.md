@@ -7,8 +7,8 @@ It's written for Python 2.7.8 and it's based on [YAJL](http://lloyd.github.io/ya
 
 Directory Structure
 -------------------
-/data
-/parser
+`/data`
+`/parser`
 
 Installation
 ------------
